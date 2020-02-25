@@ -47,7 +47,7 @@ module.exports  = {
 ## Utilização
 Depois de instalado e configurado agora só falta mais alguns passos para se utilizar a API.
 
- 1. Abra o terminal e entre na pastado projeto
+ 1. Abra o terminal e entre na pasta do projeto
  2. Execute o comando
 ```sh
 > yarn dev
