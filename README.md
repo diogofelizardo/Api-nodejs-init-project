@@ -52,8 +52,9 @@ Depois de instalado e configurado agora só falta mais alguns passos para se uti
 ```sh
 > yarn dev
 ```
- 3. Abra o browser na url http://localhost:3333/api se tudo tiver configurado corretamente irá aparecer como a imagem abaixo: 
- ![](../browser.png)
+ 3. Abra o browser na url http://localhost:3333/api se tudo tiver configurado corretamente irá aparecer como a imagem abaixo:
+ 
+![browser](https://github.com/diogofelizardo/Api-nodejs-init-project/blob/master/browser.png)
 
 ## Histórico de lançamentos
 * 0.0.1
