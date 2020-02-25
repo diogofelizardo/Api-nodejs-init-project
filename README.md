@@ -53,7 +53,7 @@ Depois de instalado e configurado agora só falta mais alguns passos para se uti
 > yarn dev
 ```
  3. Abra o browser na url http://localhost:3333/api se tudo tiver configurado corretamente irá aparecer como a imagem abaixo: 
- ![](../header.png)
+ ![](./header.png)
 
 ## Histórico de lançamentos
 * 0.0.1
