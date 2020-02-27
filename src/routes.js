@@ -11,6 +11,9 @@ const routes = new Router();
 // Rotas publicas
 routes.post("/session", SessionController.store);
 routes.post("/users", UserController.store);
+routes.get("/api", (req, res)=>{
+  return res.json({ message: "API RODANDO COM SUCESSO!" });
+});
 
 
 // Rotas para todos os usuários logados
